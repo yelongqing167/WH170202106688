@@ -3,8 +3,8 @@ package demoProj;
 public class jiaowu {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("good!");
+		System.out.println("good branch!");
 	}
+
 
 }
